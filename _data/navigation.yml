@@ -1,14 +1,23 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "HOME"
+    url: https://lee-code712.github.io/
   - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Tags"
-    url: /tags/
+    url: /about/
+  - title: "GitHub"
+    url: https://github.com/lee-code712
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+# sidebar navigation (categories)
+categories:
+  - title: "Web"
+    url: /categories/web/
+  - title: "Security"
+    url: /categories/security/
+  - title: "Algorithm"
+    url: /categories/algorithm/
