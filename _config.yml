@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Yuri Lee"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**보안**, **개발** 분야 준비"
+  bio              : "**보안**, **개발** 분야"
   location         : "Republic of Korea"
   email            :
   links:
